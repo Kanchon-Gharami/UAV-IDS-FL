@@ -67,8 +67,8 @@ project_root/
 ### Clone the Repository
 
 ```bash
-git clone [https://github.com/Kanchon-Gharami/UAV-Intrusion-Detection-Using-CNN-LSTM-Based-Encoder-Classifier-and-Federated-Continuous-Learning]
-cd [Dir_Name]
+git clone https://github.com/Kanchon-Gharami/UAV-IDS-FL
+cd UAV-IDS-FL
 ```
 
 
