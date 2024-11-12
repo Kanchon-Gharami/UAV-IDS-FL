@@ -1,0 +1,4 @@
+{
+    "input_shape": [2, 23],
+    "num_classes": 8
+}
