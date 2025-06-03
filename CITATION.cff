@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite our paper using the metadata below."
+title: "An Efficient Privacy-preserving Intrusion Detection Scheme for UAV Swarm Networks"
+authors:
+  - family-names: Gharami
+    given-names: Kanchon
+    affiliation: Dept. of Electrical Engineering and Computer Science, Embry-Riddle Aeronautical University, Florida, USA
+    orcid: https://orcid.org/0000-0003-0032-8201
+    email: gharamik@my.erau.edu
+  - family-names: Moni
+    given-names: Shafika Showkat
+    affiliation: Dept. of Electrical Engineering and Computer Science, Embry-Riddle Aeronautical University, Florida, USA
+    orcid: https://orcid.org/0000-0002-7710-4217
+    email: monis@erau.edu
+date-released: 2025-06-03
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX  # ← Update with actual DOI if available
+repository-code: https://github.com/Kanchon-Gharami/UAV-Trajectory-Prediction
+license: MIT
+keywords:
+  - UAV
+  - Intrusion detection
+  - UAV swarm
+  - Federated learning
+  - Cybersecurity
+  - Anomaly detection
+  - Heterogeneous learning
+  - Privacy-preserving
