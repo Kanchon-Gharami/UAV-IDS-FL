@@ -106,6 +106,25 @@ python clients/client_UKM_IDS.py
 ### Results
 Our approach achieved high detection accuracy across multiple datasets, showcasing the effectiveness of federated learning for UAV swarm network security. The results can be viewed in the ```result/``` directory for each client.
 
+## 📖 Citation
+
+If you use this repository for your research, please cite our paper accepted at the **44th AIAA/IEEE Digital Avionics Systems Conference (DASC)**:
+
+*Kanchon Gharami* and *Shafika Showkat Moni*, "An Efficient Privacy-preserving Intrusion Detection Scheme for UAV Swarm Networks",
+44th AIAA/IEEE Digital Avionics Systems Conference (DASC), 2025. Accepted, in publication.
+
+**BibTeX:**
+```bibtex
+@inproceedings{gharam2025dasc,
+  author    = {Kanchon Gharami and Shafika Showkat Moni},
+  title     = {An Efficient Privacy-preserving Intrusion Detection Scheme for UAV Swarm Networks},
+  booktitle = {Proceedings of the 44th AIAA/IEEE Digital Avionics Systems Conference (DASC)},
+  year      = {2025},
+  note      = {Accepted, in publication},
+  url       = {https://github.com/Kanchon-Gharami/UAV-Trajectory-Prediction}
+}
+```
+
 
 ## Contact
 For questions or issues, please contact gharamik@my.erau.edu
